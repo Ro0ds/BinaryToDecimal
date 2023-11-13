@@ -1,0 +1,14 @@
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\bin\Debug\net7.0\CSharp.exe
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\bin\Debug\net7.0\CSharp.deps.json
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\bin\Debug\net7.0\CSharp.runtimeconfig.json
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\bin\Debug\net7.0\CSharp.dll
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\bin\Debug\net7.0\CSharp.pdb
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\obj\Debug\net7.0\CSharp.dll
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\obj\Debug\net7.0\refint\CSharp.dll
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\obj\Debug\net7.0\CSharp.pdb
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
+C:\Users\rodrigo.silva\ddd\BinaryToDecimal\CSharp\obj\Debug\net7.0\ref\CSharp.dll
